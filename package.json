@@ -1,0 +1,29 @@
+{
+  "name": "@faddys/songwriter",
+  "version": "1.0.0",
+  "description": "Faddy Al Artificial as a Songwriter",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaddysAI/Songwriter.git"
+  },
+  "keywords": [
+    "AI",
+    "music",
+    "songwriter",
+    "composer",
+    "audio",
+    "csound",
+    "web"
+  ],
+  "author": "Faddy Michel <faddy.michel@gmail.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/FaddysAI/Songwriter/issues"
+  },
+  "homepage": "https://github.com/FaddysAI/Songwriter#readme",
+  "dependencies": {
+    "@faddys/scenarist": "^2.2.0",
+    "puppeteer": "^22.10.0"
+  }
+}
